@@ -1,0 +1,13 @@
+Sales 
+Sales YoY % 
+Overall Sales Growth rate % 
+
+Revenue 
+Revenue YoY % 
+Overall Revenue Growth Rate % 
+
+Number of independent Workers (IW)
+Nb YoY % 
+Overall Growth Rate of IW %
+
+Revenue as a % of Sales
